@@ -1,5 +1,5 @@
 <div id="header">
-  <img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" width="100" height="56.52"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ivan-balev/">
