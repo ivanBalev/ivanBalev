@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on a friend's arts & crafts store
-- 🌱 I’m currently learning Next.js, Tailwind CSS, Medusajs
+- 🌱 I’m currently learning Next.js, Tailwind CSS and Medusajs
 - 🚗 Fun fact: I can name a car's make and model by the sound of its engine
 
 ---
